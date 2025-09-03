@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+VITALIY+%F0%9F%91%8B;Software+Engineer+(React%2FTypeScript);Building+clean%2C+robust+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+VITALIY+%F0%9F%91%8B;Frontend+Engineer+(React%2FTypeScript);Building+clean%2C+robust+UIs" alt="Typing SVG" />
 
   <br/>
   <a href="mailto:workinvs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-workinvs%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -9,7 +9,7 @@
   <a href="https://github.com/J1za" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-J1za-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
   <p>
-    Software engineer focused on React,NextJS, TypeScript and delightful user experiences. Exploring AI/LLM integrations (RAG, agents, embeddings) to ship smarter product features.
+    Frontend engineer focused on React,NextJS, TypeScript and delightful user experiences. Exploring AI/LLM integrations (RAG, agents, embeddings) to ship smarter product features.
   </p>
 
 </div>
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-Software Engineer with 6+ years building production UIs and platforms end‑to‑end. I ship scalable frontends, pragmatic architectures and measurable product outcomes.
+Frontend Engineer with 6+ years building production UIs and platforms end‑to‑end. I ship scalable frontends, pragmatic architectures and measurable product outcomes.
 
 - Shipped an educational platform (web + desktop) used by 500+ students monthly across several countries
 - Delivered a SaaS workflow automation product serving 100+ active users with continuous releases
@@ -157,7 +157,7 @@ Team player who enjoys ownership, product thinking and iterative delivery.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=J1za&show_icons=true&theme=tokyonight" height="160" />
   <br/>
-  <sub>Always open to new opportunities in Software Engineering (React/TypeScript, AI‑powered features) and collaborative teamwork.</sub>
+  <sub>Always open to new opportunities in Frontend Engineering (React/TypeScript, AI‑powered features) and collaborative teamwork.</sub>
 </div>
 
 
