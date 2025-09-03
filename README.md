@@ -108,34 +108,42 @@ Team player who enjoys ownership, product thinking and iterative delivery.
 
 ### 🧑‍🏭 Experience
 
-- **Front‑end Developer (React) — AutoKitteh**  
-  December 2023 — May 2025
+<details>
+  <summary><b>Front‑end Developer (React) — AutoKitteh</b></summary>
+
+  <sub>December 2023 — 2025</sub>
+
   - Built a complex, well‑thought‑out UI for a web platform as part of a team
   - Implemented filtered data tables, authentication, interactive charts, advanced components, responsiveness and animations
   - Focused on performance optimization, data caching and gRPC backend integration
   - Key contributions: initiated UX improvements, searched for optimal solutions, decomposed tasks, proposed architectural enhancements
   - Tech: React, TypeScript, Zustand, Tailwind CSS, Vite, TanStack Query
 
-- **Full‑Stack Developer — IsaevWorkshop**  
-  May 2022 — June 2024
+</details>
+
+<details>
+  <summary><b>Full‑Stack Developer — IsaevWorkshop</b></summary>
+
+  <sub>May 2022 — June 2024</sub>
+
   - Lead developer of the web app, admin panel, marketplace and desktop version (Electron) from scratch
   - Selected tech stack, designed architecture, managed state, authentication, routing and rendering
   - Built a scalable admin panel, desktop app and ensured high‑quality UI with offline support
   - Tech: React, Next.js, TypeScript, Zustand, Supabase, Electron, Tailwind CSS, Mantine
 
-- **Full‑stack Developer (Freelance) — Upwork**  
-  January 2020 — April 2022
+</details>
+
+<details>
+  <summary><b>Full‑stack Developer (Freelance) — Upwork</b></summary>
+
+  <sub>January 2020 — April 2022</sub>
+
   - Delivered landing pages, blogs, news portals, eCommerce and educational platforms
   - Worked with HTML/CSS/JS/WordPress/Firebase and React
   - Created animations (GSAP), collaborated on design and maintained client communication
   - Tech: HTML, CSS, JavaScript, WordPress, GSAP, Figma, React
 
----
-
-### 🎓 Education
-
-- Master’s in Computer Science — Taras Shevchenko National University of Kyiv (2018–2020)
-- Bachelor’s in Computer Science — Taras Shevchenko National University of Kyiv (2014–2018)
+</details>
 
 ---
 
@@ -148,7 +156,6 @@ Team player who enjoys ownership, product thinking and iterative delivery.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=J1za&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=J1za&theme=tokyonight&hide_border=false" height="160" />
   <br/>
   <sub>Always open to new opportunities in Software Engineering (React/TypeScript, AI‑powered features) and collaborative teamwork.</sub>
 </div>
