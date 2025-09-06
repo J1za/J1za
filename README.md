@@ -7,6 +7,9 @@
   <a href="https://t.me/stkvi" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@stkvi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vitaliy-stukalo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vitaliy%20Stukalo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/J1za" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-J1za-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=J1za&style=for-the-badge&color=blueviolet&base=1522" alt="Profile Views" />
 
   <p>
     Frontend engineer focused on React,NextJS, TypeScript and delightful user experiences. Exploring AI/LLM integrations (RAG, agents, embeddings) to ship smarter product features.
